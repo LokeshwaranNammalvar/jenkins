@@ -1,0 +1,9 @@
+Cierra	Vega	39	cierra@example.com	10000	Insurance	
+[ 'Cierra\tVega\t39\tcierra@example.com\t10000\tInsurance\t' ]
+CierraVega39cierra@example.com10000Insurance
+[ 'CierraVega39cierra@example.com10000Insurance' ]
+3
+3
+Cierra	Vega	39	cierra@example.com	10000	Insurance	
+Alden	Cantrell	45	alden@example.com	12000	Compliance	
+Kierra	Gentry	29	kierra@example.com	2000	Legal	
